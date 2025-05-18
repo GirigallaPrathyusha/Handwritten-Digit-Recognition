@@ -1,6 +1,6 @@
-# Handwritten Digit Recognition with GUI
+# Handwritten Digit Recognition 
 
-A GUI-based application for recognizing handwritten digits using deep learning.
+A GUI-based application for recognizing handwritten digits using deep learning for recognizing handwritten digits (0-9) using the MNIST dataset and a Convolutional Neural Network (CNN).
 
 ## Features
 - Interactive drawing canvas for digit input
